@@ -2,6 +2,8 @@ import React from "react";
 
 export default function Content() {
     return (
-        <h1>Content</h1>
+        <div className="main--content">
+            <h1>Content</h1>
+        </div>
     )
 }
